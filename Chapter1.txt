@@ -1,2 +1,4 @@
 Hello
-this is the first chapetr of my new book...$
+this is the first chapter of my new book...$
+
+I will be not an easy work but lets do it!
